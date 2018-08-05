@@ -2,5 +2,5 @@
 title: 'calorie counter'
 description: 'making a calorie counter with pure/vanilla js'
 ---
-This was and is awful. This was very difficult and mind numbing. You can use this as needed, since there's instructions for localStorage.
 
+This is a simple Calorie Counter using Vanilla JavaScript. This was an earlier project that I had a lot of problems with. Not just the JavaScript, but the layout as well.
